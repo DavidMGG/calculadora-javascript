@@ -1,0 +1,1 @@
+console.log("Hola soy JavaScript desde el asrchivo .js");
